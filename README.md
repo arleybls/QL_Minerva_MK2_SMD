@@ -8,4 +8,5 @@ https://github.com/alvaroalea/QL_Minerva_MK2
 
 Please also refer to the original repository and source to find the images for both the GAL and the ROM.
 
-
+/RTC Tester is a PCF8583 verifier based on arduino nano. Output on serial console. It will help to quickly
+sort out broken chips when sourcing.
