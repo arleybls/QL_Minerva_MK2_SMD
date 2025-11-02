@@ -10,3 +10,5 @@ Please also refer to the original repository and source to find the images for b
 
 /RTC Tester is a PCF8583 verifier based on arduino nano. Output on serial console. It will help to quickly
 sort out broken chips when sourcing.
+
+![m2](https://github.com/user-attachments/assets/96207852-529a-4211-8567-2f588f4ba503)
