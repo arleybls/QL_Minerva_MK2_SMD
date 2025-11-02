@@ -1,4 +1,4 @@
-# QL_Minerva_MK2_SMD
+# SINCLAIR QL - SMD Minerva MK II - New OS + RTC
 SMD clone of the Board of ROM + RTC for Sinclair QL Computer
 
 License under: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
