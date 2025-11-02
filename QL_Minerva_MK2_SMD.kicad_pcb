@@ -8,10 +8,10 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Minerva MK II Reimagined")
+		(title "Minerva MK II SMD")
 		(date "2024-01-26")
 		(rev "0.0")
-		(company "Alvaro Alea Fernandez")
+		(company "Arley Silveira")
 	)
 	(layers
 		(0 "F.Cu" signal)
